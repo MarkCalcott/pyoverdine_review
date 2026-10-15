@@ -1,0 +1,10 @@
+name: pyoverdine_review
+dependencies:
+  - python=3.12
+  - pandas
+  - matplotlib
+  - scipy
+  - statsmodels
+  - notebook
+  - jupyterlab
+  - ipykernel
